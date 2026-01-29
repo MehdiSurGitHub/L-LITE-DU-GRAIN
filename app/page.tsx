@@ -106,6 +106,7 @@ const FOOD_ITEMS = [
     price: "480 DA", 
     desc: "Fraîcheur acidulée sur un biscuit sablé croquant. Parfait avec un thé ou un V60.", 
     icon: <Wind size={20} />, 
+    img: "cheesecake-citron.png",
     rotate: "-1.5deg"
   },
 ];
